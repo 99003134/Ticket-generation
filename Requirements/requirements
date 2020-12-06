@@ -1,1 +1,19 @@
 
+Requirements
+High level requirements
+
+
+H_01	Accepting data from Passenger
+H_02	Checking for availability of seats
+H_03	Calculating the amount
+H_04	Generating ticket
+
+Low level requirements
+
+ID	Description
+L_01	Display details to be entered
+L_02	Check weather passenger enters valid details
+L-03	Check weather seats are available
+L-04	Calculate amount for given age and destination 
+L-05	Update available seats after reservation
+L-06	Print ticket with all details and amount 
